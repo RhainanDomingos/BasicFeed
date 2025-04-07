@@ -1,0 +1,6 @@
+framework module Pods_BasicFeed {
+  umbrella header "Pods-BasicFeed-umbrella.h"
+
+  export *
+  module * { export * }
+}
