@@ -49,6 +49,14 @@ Creating the like animation and integrating mock user data was a key challenge, 
 
 ---
 
+## ℹ️ Observações
+
+> ⚠️ **Atenção:** este projeto utiliza um **Mock interno para simular dados da API**.  
+> Dependendo da versão do código ou de atualizações no Xcode, pode ser necessário **ajustar ou recriar os dados de mock** para que o app funcione corretamente.  
+> Caso encontre erros ao rodar o projeto, verifique os arquivos relacionados ao mock e certifique-se de que estão configurados corretamente.
+
+---
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
