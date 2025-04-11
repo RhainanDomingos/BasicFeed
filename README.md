@@ -35,6 +35,30 @@ Creating the like animation and integrating mock user data was a key challenge, 
 
 ---
 
+
+## 🧪 How to Run
+
+To run this project on your local machine:
+
+**Clone the repository**
+```bash
+git clone https://github.com/RhainanDomingos/BasicFeed.git
+cd BasicFeed
+```
+Install dependencies using CocoaPods
+```bash
+pod install
+```
+Open the .xcworkspace file
+```bash
+open BasicFeed.xcworkspace
+```
+Build and run the app
+Select a simulator (e.g., iPhone 14)
+Press Cmd + R in Xcode
+
+---
+
 ## 🎥 Preview
 
 <div align="center">
@@ -49,11 +73,12 @@ Creating the like animation and integrating mock user data was a key challenge, 
 
 ---
 
-## ℹ️ Observações
+## ℹ️ Notes
 
-> ⚠️ **Atenção:** este projeto utiliza um **Mock interno para simular dados da API**.  
-> Dependendo da versão do código ou de atualizações no Xcode, pode ser necessário **ajustar ou recriar os dados de mock** para que o app funcione corretamente.  
-> Caso encontre erros ao rodar o projeto, verifique os arquivos relacionados ao mock e certifique-se de que estão configurados corretamente.
+> ⚠️ **Warning**  
+> This project uses an internal mock to simulate API data.  
+> Depending on the code version or updates in Xcode, it might be necessary to adjust or recreate the mock data to make the app run properly.  
+> If you encounter any errors when running the project, check the mock-related files and ensure they are properly configured.
 
 ---
 
