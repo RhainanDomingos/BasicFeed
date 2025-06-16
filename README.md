@@ -1,4 +1,4 @@
-# 📱 Basic Feed
+# Basic Feed
 
 **Basic Feed** is an iOS app built as part of my iOS development training with [BackFront Academy](https://backfront.academy), simulating a basic social media experience.  
 It includes a **login screen** and a **main feed** divided into a `UICollectionView`, with a top section for user **Stories** and a lower section for user **Posts**.  
@@ -6,17 +6,17 @@ Each post includes the user's name, avatar, and a photo that can be liked with a
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔐 User login simulation  
-- 🧑‍🤝‍🧑 Stories layout with horizontal scroll  
-- 📸 Posts with user data and images  
-- 💓 Like animation using heart emoji (tap to toggle)  
-- 📦 Organized code using **ViewCode** and UIKit  
+- User login simulation  
+- Stories layout with horizontal scroll  
+- Posts with user data and images  
+- Like animation using heart emoji (tap to toggle)  
+- Organized code using **ViewCode** and UIKit  
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **UIKit**  
 - **ViewCode**  
@@ -28,7 +28,7 @@ Each post includes the user's name, avatar, and a photo that can be liked with a
 
 ---
 
-## 💡 What I Learned
+## What I Learned
 
 This project helped me understand the structure and reuse of custom collection view cells.  
 Creating the like animation and integrating mock user data was a key challenge, and it taught me how to work with UI updates, gestures, and state changes more confidently.
@@ -36,7 +36,7 @@ Creating the like animation and integrating mock user data was a key challenge, 
 ---
 
 
-## 🧪 How to Run
+## How to Run
 
 To run this project on your local machine:
 
@@ -59,7 +59,7 @@ Press Cmd + R in Xcode
 
 ---
 
-## 🎥 Preview
+## Preview
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d2185619-b062-4769-b20b-53c3ca06dced" width="250" />
@@ -73,15 +73,15 @@ Press Cmd + R in Xcode
 
 ---
 
-## ℹ️ Notes
+## Notes
 
-> ⚠️ **Warning**  
+> **Warning**  
 > This project uses an internal mock to simulate API data.  
 > Depending on the code version or updates in Xcode, it might be necessary to adjust or recreate the mock data to make the app run properly.  
 > If you encounter any errors when running the project, check the mock-related files and ensure they are properly configured.
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
